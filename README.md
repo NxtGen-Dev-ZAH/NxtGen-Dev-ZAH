@@ -2,9 +2,9 @@
 # 💫 About Me:
 👋 Hi, I’m @NxtGen-Dev-ZAH <br>
 🤖💻🔍 I'm currently working on AI integration projects and Web development. <br>
-💡💻🎉 I'm looking to collaborate on cutting-edge web projects. <br>
+💡🎉 I'm looking to collaborate on cutting-edge web projects. <br>
 🤔💭🔓 I'm looking for help with AI advancements and blockchain technology. <br>
-☁️📚💻 I'm currently learning Docker and cloud deployment. <br>
+☁️📚 I'm currently learning Docker and cloud deployment. <br>
 💡💻🔥 Ask me about building high-performance websites. <br>
 💻💡🎯 Ask me about building high-performance websites. <br>
 🚀🤖💻 I'm excited to explore new AI applications in web development. <br>
