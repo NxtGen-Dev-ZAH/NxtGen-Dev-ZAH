@@ -2,17 +2,34 @@
 # 💫 About Me:
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Zaheer+Ahmed" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Zaheer+Ahmed" />
   </a>
-</h1>🤖💻🔍 I'm currently working on AI integration projects and Web development. <br>
-💡🎉 I'm looking to collaborate on cutting-edge web projects. <br>
-🤔💭🔓 I'm looking for help with AI advancements and blockchain technology. <br>
-☁️📚 I'm currently learning Docker and cloud deployment. <br>
-💡💻🔥 Ask me about building high-performance websites. <br>
-💻💡🎯 Ask me about building high-performance websites. <br>
-🚀🤖💻 I'm excited to explore new AI applications in web development. <br>
-📈💼👥 I'm looking to collaborate on LinkedIn and Fiverr. <br>
-📲 How to reach me: LinkedIn: zaheerahmedabbasi YouTube: TechWithZA 📹 
+  <h2 align="center">
+    🚀 I build LLM-powered chatbots, backend microservices, and cloud-native solutions with LangChain, Next.js, FastAPI, and Docker.
+  </h2> 
+</h1>
+
+<h3>🤖💻🔍 What I’m Working On</h3>
+<ul>
+  <li>🚀 LLM-powered chatbots and personalized AI solutions with LangChain</li>
+  <li>🌐 Backend APIs, microservices, and cloud deployments</li>
+  <li>💡 Exploring OpenAI APIs, Kafka pipelines, and DevOps solutions</li>
+</ul>
+
+<h3>🛠 Technologies I Love to Explore</h3>
+<ul>
+  <li>🤖 AI & ML: Generative AI, NLP models, OpenAI APIs</li>
+  <li>🌐 Web Development: Next.js, React.js, Tailwind CSS</li>
+  <li>☁️ Cloud & DevOps: Docker, Kubernetes, Azure, CI/CD pipelines</li>
+  <li>💾 Backend Engineering: FastAPI, Kafka, PostgreSQL, NEON</li>
+</ul>
+
+<h3>💼 Let’s Connect!</h3>
+<ul>
+  <li>🚀 I’m open to freelance projects, partnerships, and open-source collaboration.</li>
+  <li>📲 Explore my work and reach out via Linkedin.</li>
+  <li>💼 Let’s build something innovative, together!</li>
+</ul>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zaheerahmadabbasi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaheer_abbasi99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaheerahmedabbasi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ZA_Innov8) 
